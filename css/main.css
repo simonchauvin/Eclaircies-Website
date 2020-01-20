@@ -1,0 +1,54 @@
+body {
+    /*font-family: 'Open Sans', sans-serif;
+    font-weight: 400;*/
+
+    color: #ccc;
+}
+
+#header {
+	position: relative;
+
+    padding: 0px;
+    margin: 0px;
+}
+
+.title {
+	position: absolute;
+    top: 33%;
+    left: 0;
+    width: 100%;
+}
+
+#content {
+    background: linear-gradient(#404f56, #694020);
+}
+
+.section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#tagline {
+    padding-bottom: 20px;
+}
+
+#video {
+    padding-bottom: 60px;
+}
+
+.screenshot {
+    padding: 0px;
+}
+
+.description {
+    padding: 50px;
+}
+
+a {
+    color: inherit;
+    font-style: italic;
+}
+
+a:hover {
+    color: inherit;
+}
