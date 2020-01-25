@@ -1,8 +1,26 @@
 body {
-    /*font-family: 'Open Sans', sans-serif;
-    font-weight: 400;*/
-
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
     color: #ccc;
+}
+
+/* Extra small devices (portrait phones, less than 576px)
+   No media query since this is the default in Bootstrap */
+
+.title {
+    position: absolute;
+    top: 33%;
+    left: 0;
+    width: 100%;
+}
+
+.section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.description {
+    padding: 5px;
 }
 
 #header {
@@ -12,20 +30,8 @@ body {
     margin: 0px;
 }
 
-.title {
-	position: absolute;
-    top: 33%;
-    left: 0;
-    width: 100%;
-}
-
 #content {
     background: linear-gradient(#404f56, #694020);
-}
-
-.section {
-    padding-top: 20px;
-    padding-bottom: 20px;
 }
 
 #tagline {
@@ -40,10 +46,6 @@ body {
     padding: 0px;
 }
 
-.description {
-    padding: 50px;
-}
-
 a {
     color: inherit;
     font-style: italic;
@@ -51,4 +53,28 @@ a {
 
 a:hover {
     color: inherit;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .description {
+        padding: 20px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .description {
+        padding: 50px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    
 }
