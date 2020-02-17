@@ -26,7 +26,8 @@ body {
 #header {
 	position: relative;
 
-    padding: 0px;
+    background-color: #404f56;
+    padding: 10px;
     margin: 0px;
 }
 
@@ -47,7 +48,7 @@ body {
 }
 
 a {
-    color: inherit;
+    color: #ddd;
     font-style: italic;
 }
 
