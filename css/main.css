@@ -44,6 +44,27 @@ body {
     padding-bottom: 30px;
 }
 
+#footer {
+    position: relative;
+
+    background-color: #694020;
+    padding: 0px;
+    padding-top: 5px;
+}
+
+.img-tree {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.footer-text {
+    position: absolute;
+    bottom: 15px;
+    left: 0;
+    width: 100%;
+}
+
 .screenshot {
     padding: 0px;
 }
