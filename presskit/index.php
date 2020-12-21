@@ -82,7 +82,7 @@
                         <strong>Based in:</strong> Paris (France)
                     </p>
                     <p class="fact">
-                        <strong>Release Date:</strong> september 2020
+                        <strong>Release Date:</strong> Spring 2021
                     </p>
                     <p class="fact">
                         <strong>Platforms:</strong> Windows / MacOS / Linux
