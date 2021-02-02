@@ -133,7 +133,9 @@
                     <!-- SECTION VIDEOS -->
                     <h3 id="videos">Videos</h3>
                     <h5>Teaser:</h5>
-                    <iframe title="vimeo-player" src="https://player.vimeo.com/video/385702705" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+                    <div class="video-container">
+                        <iframe src="https://player.vimeo.com/video/507351066?title=0&byline=0&portrait=0" class="video" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                    </div>
                     <!-- iframes -->
                     <!--<h5>Gameplay video:</h5>
                     <div class="video-container">
