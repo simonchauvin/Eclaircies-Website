@@ -88,7 +88,7 @@
                         <strong>Platforms:</strong> Windows / MacOS / Linux
                     </p>
                     <p class="fact">
-                        <strong>Website:</strong> <a href="https://www.eclaircies-game.com">www.eclaircies-game.com</a>
+                        <strong>Website:</strong> <a href="https://www.simonchauvin.com/eclaircies/">www.simonchauvin.com/eclaircies/</a>
                     </p>
                     <!--<p class="fact">
                         <strong>Price:</strong> TBA
